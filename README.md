@@ -26,6 +26,26 @@ Die Nutzung dieser Quellen ist insofern methodisch korrekt, als es sich um die o
 7. **Komologische Zyklen** – zu Kollaps, schwarzen Löchern und zyklischer Erneuerung
 8. **Schlusswort** – zur Zusammenfassung der mechanischen Realität
 
+## Lizenz
+
+Dieses Repository steht unter der **Pulvermacher Open Research License (PORL), Version 1.0**.
+
+Die maßgebliche Fassung der Lizenz ist im Repository **RaikoPulvermacher/PORL** dokumentiert und zusätzlich über Zenodo archiviert.
+
+- Lizenz-Repository:  
+  `https://github.com/RaikoPulvermacher/PORL`
+
+- DOI der archivierten Lizenzfassung:  
+  `https://doi.org/10.5281/zenodo.18757232`
+
+Die PORL erlaubt Nutzung, Teilen und Weiterentwicklung der Inhalte unter den in der Lizenz definierten Bedingungen, insbesondere hinsichtlich Namensnennung, Transparenz bei abgeleiteten Arbeiten, Information des Urhebers bei Forschungsnutzung sowie Beibehaltung dieser Lizenz oder einer inhaltlich gleichwertigen Lizenz.
+
+## Zitierhinweis
+
+Empfohlene Zitierweise:
+
+Raiko Pulvermacher, *Zeit-und-Resonanz-im-TdR*, GitHub-Repository. Lizenz: *Pulvermacher Open Research License (PORL), Version 1.0*. Archivierte Lizenzfassung über Zenodo. DOI: `10.5281/zenodo.18757232`.
+
 ## Primärquellen des Modells
 
 - Raiko Pulvermacher, *Tensor-Realit-ten*, GitHub-Repository:  
