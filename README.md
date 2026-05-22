@@ -1,1 +1,1 @@
-# Teit-und-Resonanz-im-TdR
+# Zeit-und-Resonanz-im-TdR
