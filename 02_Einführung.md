@@ -1,6 +1,47 @@
-Vorstellung des Tensor der Realitäten (TdR)
+# 02 Einführung
 
-Vom statischen Modell zur mechanischen RealitätDie Geschichte der Physik ist eine Geschichte der Abstraktion. Doch in den letzten Jahrzehnten hat sich diese Abstraktion verselbstständigt. Wir beobachten Phänomene im Kosmos – Galaxienrotationen, die Expansion des Raums, das Verhalten von Elementarteilchen – und stellen fest, dass unsere klassischen Werkzeuge nicht mehr ausreichen. Anstatt jedoch die Werkzeuge (die Modelle) zu hinterfragen, erfand die Modell-Physik "Platzhalter" für ihr eigenes Unvermögen: Dunkle Materie und Dunkle Energie.Diese Arbeit tritt an, um zu zeigen, dass diese Platzhalter unnötig sind, wenn man die Perspektive wechselt. Der Tensor der Realitäten (TdR) ist kein weiteres abstraktes Modell, sondern eine Beschreibung der zugrundeliegenden Mechanik.In dieser Einführung legen wir dar, warum die herkömmliche Trennung zwischen Mathematik und Physik künstlich ist. Die Natur rechnet nicht mit komplexen Formeln; sie schaltet. Sie folgt einem Rhythmus aus Wandlung und Vollendung.Der Kern des Problems der aktuellen Wissenschaft liegt in der Annahme einer statischen Raumzeit. Der TdR hingegen definiert den Raum als ein Resultat von Frequenz und Amplitude. Materie ist hier kein "Fremdkörper" im Raum, sondern eine spezifische, hochkomprimierte Form der Raumamplitude selbst.In den folgenden Kapiteln werden wir:Die FN-Logik als die mathematische Sprache des Prozesses einführen.Die atomare Struktur als mechanisches Gleichgewicht aus innerer Bewegung und äußerer Bindung beweisen.Die Zeit nicht als Dimension, sondern als die messbare Frequenz dieses ewigen Ausgleichs ($+1$) demaskieren.Das Ziel dieser Publikation ist es, den Werkzeugkasten der Physik zu bereinigen. Wir nutzen die bewährten Messungen der Vergangenheit, entziehen ihnen aber den Status eines Dogmas und integrieren sie in ein mechanisches Gesamtbild, das ohne die "Metaphysik der Lücken" auskommt.
+## Vorstellung des Tensor der Realitäten (TdR)
 
+Die Geschichte der Physik ist in weiten Teilen eine Geschichte wachsender Abstraktion. Modelle, Formeln und Symbole haben eine enorme Erklärungskraft entfaltet, zugleich aber auch eine Denkweise begünstigt, in der die mathematische Beschreibung leicht mit der Realität selbst verwechselt wird.
 
-Definition der Zeit als Prozessualer Takt, nicht Dimension.
+Der **Tensor der Realitäten (TdR)** setzt an dieser Verwechslung an. Er schlägt vor, die sichtbaren Modelle nicht als Fundament, sondern als abgeleitete Darstellungsformen einer tieferliegenden mechanischen Wirklichkeit zu lesen. Im Mittelpunkt steht daher nicht das statische Objekt, sondern der Vorgang, durch den Zustände entstehen, sich koppeln, stabilisieren und wieder auflösen.
+
+### Vom statischen Modell zur mechanischen Realität
+
+Im TdR ist Realität kein unbewegliches Inventar von Dingen, sondern ein Gefüge aus Spannungen, Resonanzen und Übergängen. Was in der herkömmlichen Physik häufig als festes Teilchen, Feld oder Zustand erscheint, wird hier als Ausdruck einer prozessualen Raummechanik gedacht.
+
+Diese Perspektive verschiebt den Fokus:
+- von Substanzen zu Relationen,
+- von Zuständen zu Übergängen,
+- von Beschreibungen zu Mechaniken,
+- von fertigen Formen zu Wandlungsprozessen.
+
+### Zeit als prozessualer Takt
+
+Ein zentraler Punkt des TdR ist die Neudeutung der Zeit. Zeit ist in diesem Modell keine unabhängige Dimension, in der Ereignisse lediglich stattfinden. Sie ist vielmehr der **messbare Takt von Wandlungen**, also die Folge jener Impulse, durch die sich Realität fortlaufend verändert.
+
+Zeit wird dadurch nicht als leerer Container verstanden, sondern als Ausdruck dynamischer Ordnung. Sie erscheint nur dort, wo Differenz, Ausgleich und erneute Abweichung wirksam werden. Ohne Prozess keine Zeit.
+
+### Ziel der weiteren Kapitel
+
+Die folgenden Kapitel entfalten diese Grundannahmen an verschiedenen Ebenen:
+- mathematisch in der FN-Logik,
+- atomar in der Deutung von Proton, Elektron und Neutron,
+- biologisch in der Resonanzstruktur von Kohlenstoff und Sauerstoff,
+- kosmologisch in der Neubestimmung von dunkler Materie, dunkler Energie und zyklischen Kollapsprozessen.
+
+Die Einführung soll damit den Rahmen abstecken, in dem die weiteren Begriffe des Modells zu lesen sind.
+
+## Primärquellen des Modells
+
+- Raiko Pulvermacher, *Tensor-Realit-ten*, GitHub-Repository:  
+  `https://github.com/RaikoPulvermacher/Tensor-Realit-ten`
+
+- Raiko Pulvermacher, *Fn-Logik-Mathematik*, GitHub-Repository:  
+  `https://github.com/RaikoPulvermacher/Fn-Logik-Mathematik`
+
+- Raiko Pulvermacher, *DM-DE-Wiederlegung-der-Grundmodelle*, GitHub-Repository:  
+  `https://github.com/RaikoPulvermacher/DM-DE-Wiederlegung-der-Grundmodelle`
+
+- Raiko Pulvermacher, *Zeit-und-Resonanz-im-TdR*, GitHub-Repository:  
+  `https://github.com/RaikoPulvermacher/Zeit-und-Resonanz-im-TdR`

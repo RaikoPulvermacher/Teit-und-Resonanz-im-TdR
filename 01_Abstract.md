@@ -1,11 +1,34 @@
-Die Krise der modernen Physik (Modell Mathematik, Modell Physik)
+# 01 Abstract
 
-Die Überwindung der Modell-Dogmatik
+## Die Krise der modernen Physik und die Überwindung der Modell-Dogmatik
 
-Die moderne Physik befindet sich in einer tiefgreifenden Krise, die weniger mathematischer als vielmehr erkenntnistheoretischer Natur ist. Das aktuelle wissenschaftliche Paradigma operiert innerhalb einer Modell-Physik und Modell-Mathematik, in der theoretische Hilfskonstrukte (wie Dunkle Materie, Singularitäten oder abstrakte Dimensionen) soziologisch zu einem dogmatischen Fundament erhärtet sind.
+Die moderne Physik verfügt über eine außerordentlich leistungsfähige mathematische Sprache. Dennoch zeigt sich nach Auffassung des hier entwickelten Modells eine grundlegende erkenntnistheoretische Schwierigkeit: Modelle, die ursprünglich als Werkzeuge zur Beschreibung beobachtbarer Phänomene entwickelt wurden, werden zunehmend wie die Realität selbst behandelt.
 
-Obwohl Modelle per Definition lediglich Werkzeuge zur Annäherung an die Phänomene sein sollten, werden sie im aktuellen akademischen Diskurs als unantastbare Realität behandelt. Kritische Hinterfragungen dieser Werkzeuge werden oft nicht fachlich, sondern dogmatisch abgelehnt.
+Diese Verschiebung führt zu einer Form von Modell-Dogmatik. An die Stelle mechanischer Verständlichkeit tritt häufig formale Beschreibung, an die Stelle ontologischer Klärung die Stabilisierung etablierter Rechenrahmen. Was mathematisch erfolgreich ist, gilt dadurch leicht als wirklich – selbst dann, wenn der zugrundeliegende physikalische Mechanismus unklar bleibt.
 
-Diese Publikation stellt mit dem Tensor der Realitäten (TdR) eine fundamentale Alternative vor. Der TdR bricht mit der Tradition, Modelle als die Realität selbst zu begreifen. Stattdessen werden bestehende physikalische Modelle und mathematische Werkzeuge konsequent als das behandelt, was sie sind: Spezialfälle der Messung.
+Der **Tensor der Realitäten (TdR)** setzt genau an diesem Punkt an. Er versteht klassische Modelle nicht als letzte Wirklichkeit, sondern als kalibrierte Mess- und Näherungsinstrumente. Das Ziel besteht darin, die beobachtbaren Phänomene auf eine tieferliegende prozessuale und mechanische Ordnung zurückzuführen.
 
-Innerhalb des TdR dienen klassische Modelle nicht als Fundament, sondern als kalibrierte Messinstrumente, um Teilaspekte einer zugrundeliegenden, mechanischen Raum-Amplitude zu erfassen. Durch die Integration der FN-Logik und der mechanischen Beschreibung von Wandlung und Vollendung wird ein System geschaffen, das die Trennung zwischen Beobachter, Messwerkzeug und Realität auflöst und eine physikalische Beschreibung ermöglicht, die ohne die metaphysischen "Geisterteilchen" der Modell-Physik auskommt.
+Im Zentrum steht die Annahme, dass Realität nicht primär aus fertigen Zuständen besteht, sondern aus **Wandlung, Resonanz, Kopplung, Verdichtung und Ausgleich**. Zeit ist in diesem Rahmen keine bloße Koordinate, sondern ein Ausdruck fortlaufender Zustandsänderung. Gravitation, Masse, atomare Struktur und kosmologische Dynamik werden nicht als voneinander getrennte Rätsel, sondern als Erscheinungsformen derselben Grundmechanik verstanden.
+
+Diese Publikation formuliert daher keinen bloßen Kommentar zu bestehenden Theorien, sondern den Entwurf eines alternativen Grundansatzes. Der TdR beansprucht, die mechanische Tiefenstruktur hinter bekannten Modelloberflächen sichtbar zu machen.
+
+## Methodische Einordnung
+
+Die hier dargestellte Theorie ist ein eigenständiger, vom Autor entwickelter Ansatz.  
+Da die verwendete Verbindung aus Fibonacci-Strukturen, Primlogik, Resonanzmechanik und prozessualem Zeitbegriff nicht aus einer etablierten wissenschaftlichen Schule übernommen ist, dienen die eigenen Repositorien des Autors als **Primärquellen des Modells**.
+
+Diese Quellen sind nicht als externe Bestätigung, sondern als originäre Textgrundlage der Theorie zu verstehen. Eine unabhängige wissenschaftliche Prüfung und empirische Validierung bleiben davon getrennte Aufgaben.
+
+## Primärquellen des Modells
+
+- Raiko Pulvermacher, *Tensor-Realit-ten*, GitHub-Repository:  
+  `https://github.com/RaikoPulvermacher/Tensor-Realit-ten`
+
+- Raiko Pulvermacher, *Fn-Logik-Mathematik*, GitHub-Repository:  
+  `https://github.com/RaikoPulvermacher/Fn-Logik-Mathematik`
+
+- Raiko Pulvermacher, *DM-DE-Wiederlegung-der-Grundmodelle*, GitHub-Repository:  
+  `https://github.com/RaikoPulvermacher/DM-DE-Wiederlegung-der-Grundmodelle`
+
+- Raiko Pulvermacher, *Zeit-und-Resonanz-im-TdR*, GitHub-Repository:  
+  `https://github.com/RaikoPulvermacher/Zeit-und-Resonanz-im-TdR`
